@@ -33,12 +33,12 @@ This repo includes:
 
 ## Quick Start (Colab)
 
-1. Open any notebook below (once this repo is on GitHub) by replacing `SpaceTimeNarratives/spatio-textual-colab-demos` with your repo path:
-   - Entity Annotation: `https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_1_entity_annotation.ipynb`
-   - Sentiment: `https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_2_sentiment.ipynb`
-   - Emotion: `https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_3_emotion.ipynb`
-   - Interpretation: `https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_4_interpretation.ipynb`
-   - Visualisation: `https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_5_visualisation.ipynb`
+1. Open any notebook below (once this repo is on GitHub) by replacing `SpaceTimeNarratives/spatio-textual-colab-demos` with your correct repo path:
+   - [Entity Annotation](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_1_entity_annotation.ipynb)
+   - [Sentiment](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_2_sentiment.ipynb)
+   - [Emotion](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_3_emotion.ipynb)
+   - [Interpretation](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_4_interpretation.ipynb)
+   - [Visualisation](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_5_visualisation.ipynb)
 
 2. In the first cell of each notebook, run the **Setup** cell to install dependencies.
 
