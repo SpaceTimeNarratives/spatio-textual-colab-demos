@@ -40,6 +40,7 @@ End-to-end, Colab-friendly tutorials for the [**spatio-textual**](https://github
 3. Execute cells sequentially.
 
 > Tip: If you are maintaining your own Python package repo for `spatio_textual`, add an install cell like `pip install git+https://github.com/<OWNER>/<PKG_REPO>.git@main` at the top of each notebook.
+
 > 🧩 These notebooks assume you have access to the `spatio_textual` package (installed locally or available in your Colab environment).
 
 ---
