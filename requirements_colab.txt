@@ -1,0 +1,13 @@
+text
+spacy>=3.6,<4.0
+geonamescache>=2.0.0
+pandas>=2.0.0
+
+# Optional (progress bar, maps)
+tqdm>=4.66.0
+folium>=0.15.0
+
+# (Optional) Transformers/LLM backends for richer sentiment/emotion
+# transformers>=4.41.0
+# torch>=2.0.0
+# openai>=1.0.0
