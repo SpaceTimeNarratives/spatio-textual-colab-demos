@@ -2,16 +2,6 @@
 
 End-to-end, Colab-friendly tutorials for the [**spatio-textual**](https://github.com/SpaceTimeNarratives/spatio-textual) package, tailored to Digital/Spatial Humanities use cases (Holocaust survivors' testimonies and the Corpus of Lake District Writing).
 
-This repo includes:
-
-- **demo_1_entity_annotation.ipynb**: Entity & verb annotation, sentence-safe chunking, and Q↔A-aware testimony segmentation.
-- **demo_2_sentiment.ipynb**: Sentiment classification (rule backend) + hooks for HF/LLM.
-- **demo_3_emotion.ipynb**: Emotion classification (Neutral/Joy/Surprise/Sadness/Fear/Anger/Disgust), rule backend + hooks.
-- **demo_4_interpretation.ipynb**: Record-level summaries, affect explanations, simple themes (LLM-friendly).
-- **demo_5_visualisation.ipynb**: GeoJSON export, Folium maps, and co-occurrence graphs.
-
-> 🧩 These notebooks assume you have access to the `spatio_textual` package (installed locally or available in your Colab environment).
-
 ---
 
 ## Table of Contents
@@ -34,17 +24,23 @@ This repo includes:
 ## Quick Start (Colab)
 
 1. Open any notebook below (once this repo is on GitHub) by replacing `SpaceTimeNarratives/spatio-textual-colab-demos` with your correct repo path:
-   - [Entity Annotation](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_1_entity_annotation.ipynb)
-   - [Sentiment](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_2_sentiment.ipynb)
-   - [Emotion](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_3_emotion.ipynb)
-   - [Interpretation](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_4_interpretation.ipynb)
-   - [Visualisation](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_5_visualisation.ipynb)
+   - [Entity Annotation: demo_1_entity_annotation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_1_entity_annotation.ipynb)
+      - Entity & verb annotation, sentence-safe chunking, and Q↔A-aware testimony segmentation.
+   - [Sentiment: demo_2_sentiment.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_2_sentiment.ipynb)
+      - Sentiment classification (rule backend) + hooks for HF/LLM.
+   - [Emotion: demo_3_emotion.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_3_emotion.ipynb)
+      - Emotion classification (Neutral/Joy/Surprise/Sadness/Fear/Anger/Disgust), rule backend + hooks.
+   - [Interpretation: demo_4_interpretation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_4_interpretation.ipynb)
+      - Record-level summaries, affect explanations, simple themes (LLM-friendly).
+   - [Visualisation: demo_5_visualisation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_5_visualisation.ipynb)
+      - GeoJSON export, Folium maps, and co-occurrence graphs.
 
 2. In the first cell of each notebook, run the **Setup** cell to install dependencies.
 
 3. Execute cells sequentially.
 
 > Tip: If you are maintaining your own Python package repo for `spatio_textual`, add an install cell like `pip install git+https://github.com/<OWNER>/<PKG_REPO>.git@main` at the top of each notebook.
+> 🧩 These notebooks assume you have access to the `spatio_textual` package (installed locally or available in your Colab environment).
 
 ---
 
