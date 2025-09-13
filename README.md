@@ -1,14 +1,14 @@
-# spatio-textual — Colab Demos 📓✨
+# spatio-textual - Colab Demos 📓✨
 
 End-to-end, Colab-friendly tutorials for the [**spatio-textual**](https://github.com/SpaceTimeNarratives/spatio-textual) package, tailored to Digital/Spatial Humanities use cases (Holocaust survivors' testimonies and the Corpus of Lake District Writing).
 
 This repo includes:
 
-- **demo_1_entity_annotation.ipynb** — Entity & verb annotation, sentence-safe chunking, and Q↔A-aware testimony segmentation.
-- **demo_2_sentiment.ipynb** — Sentiment classification (rule backend) + hooks for HF/LLM.
-- **demo_3_emotion.ipynb** — Emotion classification (Neutral/Joy/Surprise/Sadness/Fear/Anger/Disgust), rule backend + hooks.
-- **demo_4_interpretation.iphttps://github.com/SpaceTimeNarrativesynb** — Record-level summaries, affect explanations, simple themes (LLM-friendly).
-- **demo_5_visualisation.ipynb** — GeoJSON export, Folium maps, and co-occurrence graphs.
+- **demo_1_entity_annotation.ipynb**: Entity & verb annotation, sentence-safe chunking, and Q↔A-aware testimony segmentation.
+- **demo_2_sentiment.ipynb**: Sentiment classification (rule backend) + hooks for HF/LLM.
+- **demo_3_emotion.ipynb**: Emotion classification (Neutral/Joy/Surprise/Sadness/Fear/Anger/Disgust), rule backend + hooks.
+- **demo_4_interpretation.ipynb**: Record-level summaries, affect explanations, simple themes (LLM-friendly).
+- **demo_5_visualisation.ipynb**: GeoJSON export, Folium maps, and co-occurrence graphs.
 
 > 🧩 These notebooks assume you have access to the `spatio_textual` package (installed locally or available in your Colab environment).
 
