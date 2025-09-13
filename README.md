@@ -95,9 +95,9 @@ A: Use `load_annotations(..., ensure_columns=True)` to add any missing columns.
 
 ---
 
-## License
-Choose a license suitable for your project (e.g., MIT, BSD-3-Clause, or CC BY 4.0 for text).
-```
+## 📄 License
+
+GNU GENERAL PUBLIC LICENSE. See [LICENSE](./LICENSE.txt).
 
 ---
 
