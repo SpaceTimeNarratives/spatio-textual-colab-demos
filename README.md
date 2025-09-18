@@ -24,12 +24,10 @@ End-to-end, Colab-friendly tutorials for the [**spatio-textual**](https://github
 ## Quick Start (Colab)
 
 1. Open any notebook below (once this repo is on GitHub) by replacing `SpaceTimeNarratives/spatio-textual-colab-demos` with your correct repo path:
-   - [Entity Annotation: demo_1_entity_annotation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_1_entity_annotation.ipynb)
+   - [demo_1_entity_annotation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_1_entity_annotation.ipynb)
       - Entity & verb annotation, sentence-safe chunking, and Q↔A-aware testimony segmentation.
-   - [Sentiment: demo_2_sentiment.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_2_sentiment.ipynb)
-      - Sentiment classification (rule backend) + hooks for HF/LLM.
-   - [Emotion: demo_3_emotion.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_3_emotion.ipynb)
-      - Emotion classification (Neutral/Joy/Surprise/Sadness/Fear/Anger/Disgust), rule backend + hooks.
+   - [demo_2_sentiment_emotions.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_2_sentiment_emotions.ipynb)
+      - Sentiment and emotion classification (rule backend) + hooks for HF/LLM.
    - [Interpretation: demo_4_interpretation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_4_interpretation.ipynb)
       - Record-level summaries, affect explanations, simple themes (LLM-friendly).
    - [Visualisation: demo_5_visualisation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_5_visualisation.ipynb)
