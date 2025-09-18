@@ -24,7 +24,7 @@ End-to-end, Colab-friendly tutorials for the [**spatio-textual**](https://github
 ## Quick Start (Colab)
 
 1. Open any notebook below (once this repo is on GitHub) by replacing `SpaceTimeNarratives/spatio-textual-colab-demos` with your correct repo path:
-   - demo_1_entity_annotation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_1_entity_annotation.ipynb)
+   - [demo_1_entity_annotation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_1_entity_annotation.ipynb)
       - Entity & verb annotation, sentence-safe chunking, and Q↔A-aware testimony segmentation.
    - [demo_2_sentiment_emotions.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_2_sentiment_emotions.ipynb)
       - Sentiment and emotion classification (rule backend) + hooks for HF/LLM.
