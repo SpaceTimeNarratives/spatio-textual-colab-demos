@@ -49,13 +49,10 @@ End-to-end, Colab-friendly tutorials for the [**spatio-textual**](https://github
   **Focus:** Entities, verbs, sentence-safe chunking, Q↔A testimony segmentation (`qa.py`).  
   **Input sample:** `data/testimonies/testimony_001.txt`, `data/testimonies/snippet_002.txt`.
 
-- `demo_2_sentiment.ipynb`  
-  **Focus:** Rule-based sentiment + hooks for HF/LLM; attach labels/scores to segments.
+- `demo_2_sentiment_emotions.ipynb`  
+  **Focus:** Rule-based + hooks for HF/LLM; attach sentiment and emotion labels/scores to segments.
 
-- `demo_3_emotion.ipynb`  
-  **Focus:** Ekman-style emotions; rule backend + hooks; optional distributions.
-
-- `demo_4_interpretation.ipynb`  
+- `demo_3_interpretation.ipynb`  
   **Focus:** Summaries, affect explanations, theme tags; optional LLM hook.
 
 - `demo_5_visualisation.ipynb`  
@@ -146,10 +143,9 @@ spatio-textual-colab-demos/
 ├─ README.md
 ├─ requirements_colab.txt
 ├─ demo_1_entity_annotation.ipynb
-├─ demo_2_sentiment.ipynb
-├─ demo_3_emotion.ipynb
-├─ demo_4_interpretation.ipynb
-├─ demo_5_visualisation.ipynb
+├─ demo_2_sentiment_emotions.ipynb
+├─ demo_3_interpretation.ipynb
+├─ demo_4_visualisation.ipynb
 └─ data/
    └─ testimonies/
       ├─ testimony_001.txt
