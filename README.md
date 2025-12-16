@@ -28,9 +28,9 @@ End-to-end, Colab-friendly tutorials for the [**spatio-textual**](https://github
       - Entity & verb annotation, sentence-safe chunking, and Q↔A-aware testimony segmentation.
    - [demo_2_sentiment_emotions.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_2_sentiment_emotions.ipynb)
       - Sentiment and emotion classification (rule backend) + hooks for HF/LLM.
-   - [Interpretation: demo_4_interpretation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_4_interpretation.ipynb)
+   - [Interpretation: demo_3_interpretation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_3_interpretation.ipynb)
       - Record-level summaries, affect explanations, simple themes (LLM-friendly).
-   - [Visualisation: demo_5_visualisation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_5_visualisation.ipynb)
+   - [Visualisation: demo_4_visualisation.ipynb](https://colab.research.google.com/github/SpaceTimeNarratives/spatio-textual-colab-demos/blob/main/demo_4_visualisation.ipynb)
       - GeoJSON export, Folium maps, and co-occurrence graphs.
 
 2. In the first cell of each notebook, run the **Setup** cell to install dependencies.
@@ -55,7 +55,7 @@ End-to-end, Colab-friendly tutorials for the [**spatio-textual**](https://github
 - `demo_3_interpretation.ipynb`  
   **Focus:** Summaries, affect explanations, theme tags; optional LLM hook.
 
-- `demo_5_visualisation.ipynb`  
+- `demo_4_visualisation.ipynb`  
   **Focus:** GeoJSON export, Folium maps, co-occurrence graphs.
 
 ---
